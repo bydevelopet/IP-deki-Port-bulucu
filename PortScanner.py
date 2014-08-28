@@ -1,3 +1,4 @@
+#Bydevelopet 28.08.2014
 import socket
 import thread
 import time
@@ -71,3 +72,4 @@ while True:
     #        print str(i+1)+ " - "+port
     #    time.sleep(6000)
     #    break
+    
